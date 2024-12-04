@@ -36,21 +36,8 @@ Note: If you see a 'disconnected' message showing in the header of your self-hos
 
 Note: Due to resource linkage, hosting the website at non-root locations like `username.github.io/project` is **not supported** at this moment.
 
-#### Other Hosting Providers
-[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/nettleweb/nettleweb)
-[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/nettleweb/nettleweb)
-[![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/nettleweb/nettleweb)
-[![Deploy to IBM Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/ibmcloud.svg)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/nettleweb/nettleweb)
-[![Deploy to Amplify Console](https://binbashbanana.github.io/deploy-buttons/buttons/remade/amplifyconsole.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/nettleweb/nettleweb)
-[![Run on Google Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/nettleweb/nettleweb)
-[![Deploy to Oracle Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/oraclecloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/nettleweb/nettleweb/archive/refs/heads/main.zip)
-[![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://railway.app/new/template?template=https://github.com/nettleweb/nettleweb)
-[![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/nettleweb/nettleweb)
-[![Deploy to Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/nettleweb/nettleweb)
-[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/nettleweb/nettleweb&branch=Main&name=nettleweb)
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/nettleweb/nettleweb)
-[![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/nettleweb/nettleweb)
-
+#### status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1f75a6d1-1a61-4861-8807-d385a4ce0fe7/deploy-status)](https://app.netlify.com/sites/resilient-moxie-6c8027/deploys)
 ## Data URL
 The code below is a data URL of an embedded NettleWeb mirror, it can bypass most restrictions set by browser extensions on Chrome and Edge. However it **cannot** be used to bypass external network restriction.
 ```
